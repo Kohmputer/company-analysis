@@ -3,7 +3,7 @@ This section aims to analyse companies in the pharmaceutical industry.
 
 
 
-## Novartis
+## [Novartis]
 Novartis was created through a merger of two Basel-based Swiss entities, Ciba-Geigy and Sandoz, both with roots extending back to the 19th century. 
 Its earliest predecessor started out as a chemicals and dyes trading company back in 1758 and nowadays Novartis is one of the leading pharmaceutical companies in the industry.
 
@@ -40,6 +40,11 @@ Beginning in September 2023, Novartis reorganized its operations into the follow
 - **Operations** manufactures and delivers our medicines to customers, while also overseeing the global functions of IT, procurement and real estate services.
 - The two commercial units, **US** and **International**, focus on their respective geographic areas. They work with customers to provide innovative medicines and services that improve treatment options and raise the quality of care for patients. 
 
+
+## [Lonza]
+Effective 31 May 2023, Lonza Group acquired 100% of the shares of Synaffix B.V., Netherlands for an initial cash consideration of EUR 107 million and an additional performance-based consideration up to EUR 60 million. Synaffix is an innovative biotech company focused on antibody-drug conjugates (ADCs). The acquisition will further strengthen
+Lonza’s bioconjugates offering through the integration of Synaffix technology platform
+and R&D capabilities.
 
 > [!WARNING]
 > I do not provide personal investment advice and I am not a qualified licensed investment advisor. I am an amateur investor.
